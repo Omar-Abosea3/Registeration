@@ -1,0 +1,42 @@
+body{
+    background-color: #24353F;
+    height: 100vh;
+}
+h2{
+    color: #17A2B8;
+}
+.loginForm{
+    color: #24353F;
+    box-shadow: #0f1519 -20px 20px 20px;
+    
+}
+input{
+    background-color:#24353F !important;
+    color: #909697 !important;
+    width: 100%;
+}
+.signUp-Link{
+    transition: 0.2s all;
+    -webkit-transition: 0.2s all;
+    -moz-transition: 0.2s all;
+    -ms-transition: 0.2s all;
+    -o-transition: 0.2s all;
+}
+.signUp-Link:hover{
+    text-decoration: underline !important;
+}
+.NavBar{
+    background-color: #24353F !important;
+    box-shadow: #1b262e 0px 20px 10px;
+}
+.messagePox{
+    height: 50vh;
+}
+#yourMessage{
+    background-color: #24353F !important;
+    box-shadow: #1b262e 15px 15px 10px 12px;
+    width: 65%;
+}
+.hight{
+    height: 250px;
+}
